@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TapZe/fe-ptabc-transaction.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TapZe/be-ptabc-transaction.git
